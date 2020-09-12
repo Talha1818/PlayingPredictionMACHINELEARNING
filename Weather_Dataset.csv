@@ -1,0 +1,15 @@
+,Outlook,Temperature,Humidity,Windy,Play
+0,Sunny,85,85,False,no
+1,Sunny,80,90,True,no
+2,Overcast,83,86,False,yes
+3,Rainy,70,96,False,yes
+4,Rainy,68,80,False,yes
+5,Rainy,65,70,True,no
+6,Overcast,64,65,True,yes
+7,Sunny,72,95,False,no
+8,Sunny,69,70,False,yes
+9,Rainy,75,80,False,yes
+10,Sunny,75,70,True,yes
+11,Overcast,72,90,True,yes
+12,Overcast,81,75,False,yes
+13,Rainy,71,91,True,no
